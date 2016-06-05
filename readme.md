@@ -4,13 +4,11 @@
 
   a) https://nodejs.org/en/ -- download latest
 
-  b) Verify node installation by running:
+  b) Verify node installation by running the following from the command line:
 
     ```
-    node -v
+    node -v      
     ```
-
-    from the command line
 
 2) Navigate to folder in the command line and run the following command:
 
