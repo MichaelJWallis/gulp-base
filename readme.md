@@ -2,13 +2,14 @@
 
 1) Download and install Node.js
 
-  a) https://nodejs.org/en/ -- download latest
+  a) Visit https://nodejs.org/en/ and download the latest stable release
 
   b) Verify node installation by running the following from the command line:
 
     ```
     node -v      
     ```
+
 
 2) Navigate to folder in the command line and run the following command:
 
